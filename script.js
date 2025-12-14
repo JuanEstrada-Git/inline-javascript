@@ -1,1 +1,3 @@
-alert("Hello, World2!");
+document.getElementById('btn').onclick = function(){
+    alert('Button clicked!');
+};
